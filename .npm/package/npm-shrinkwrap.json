@@ -1,0 +1,69 @@
+{
+  "dependencies": {
+    "react": {
+      "version": "0.14.3",
+      "dependencies": {
+        "envify": {
+          "version": "http://npm.intelie/envify/-/envify-3.4.0.tgz",
+          "dependencies": {
+            "through": {
+              "version": "http://npm.intelie/through/-/through-2.3.8.tgz"
+            },
+            "jstransform": {
+              "version": "http://npm.intelie/jstransform/-/jstransform-10.1.0.tgz",
+              "dependencies": {
+                "base62": {
+                  "version": "http://npm.intelie/base62/-/base62-0.1.1.tgz"
+                },
+                "esprima-fb": {
+                  "version": "http://npm.intelie/esprima-fb/-/esprima-fb-13001.1001.0-dev-harmony-fb.tgz"
+                },
+                "source-map": {
+                  "version": "http://npm.intelie/source-map/-/source-map-0.1.31.tgz",
+                  "dependencies": {
+                    "amdefine": {
+                      "version": "http://npm.intelie/amdefine/-/amdefine-1.0.0.tgz"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "fbjs": {
+          "version": "http://npm.intelie/fbjs/-/fbjs-0.3.2.tgz",
+          "dependencies": {
+            "core-js": {
+              "version": "http://npm.intelie/core-js/-/core-js-1.2.6.tgz"
+            },
+            "loose-envify": {
+              "version": "http://npm.intelie/loose-envify/-/loose-envify-1.1.0.tgz",
+              "dependencies": {
+                "js-tokens": {
+                  "version": "http://npm.intelie/js-tokens/-/js-tokens-1.0.2.tgz"
+                }
+              }
+            },
+            "promise": {
+              "version": "http://npm.intelie/promise/-/promise-7.0.4.tgz",
+              "dependencies": {
+                "asap": {
+                  "version": "http://npm.intelie/asap/-/asap-2.0.3.tgz"
+                }
+              }
+            },
+            "ua-parser-js": {
+              "version": "http://npm.intelie/ua-parser-js/-/ua-parser-js-0.7.9.tgz"
+            },
+            "whatwg-fetch": {
+              "version": "http://npm.intelie/whatwg-fetch/-/whatwg-fetch-0.9.0.tgz"
+            }
+          }
+        }
+      }
+    },
+    "react-addons-linked-state-mixin": {
+      "version": "0.14.3"
+    }
+  }
+}

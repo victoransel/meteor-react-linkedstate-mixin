@@ -19,3 +19,5 @@ var Component = React.createClass({
   }
 });
 ```
+
+Thanks [meteor-react-timer-mixin] (https://github.com/codeempathy/meteor-react-timer-mixin) for the example, that was my first package.

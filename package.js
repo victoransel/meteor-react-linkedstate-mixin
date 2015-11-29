@@ -2,7 +2,7 @@ Package.describe({
   name: 'victoransel:react-linkedstate-mixin',
   version: '0.13.2',
   summary: 'ReactLink is an easy way to express two-way binding with React.',
-  git: 'https://github.com/codeempathy/meteor-react-timer-mixin',
+  git: 'https://github.com/victoransel/meteor-react-linkedstate-mixin',
   documentation: 'README.md'
 });
 
